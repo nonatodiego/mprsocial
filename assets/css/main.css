@@ -2319,9 +2319,9 @@ input, select, textarea {
 				margin: 0 0 2em 0;
 			}
 
-				header > p {
-					font-size: 1.25em;
-				}
+			header > p {
+				font-size: 1.25em;
+			}		
 
 			footer {
 				margin: 2.5em 0 0 0;
